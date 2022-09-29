@@ -13,6 +13,9 @@ const profile = {
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cla6shade)](https://github.com/anuraghazra/github-readme-stats)
 
+# Awards
+- 2022 부산대학교 프로그래밍대회 PNU Coderace 동상 (6위)
+
 # Skills
 ## Languages
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
