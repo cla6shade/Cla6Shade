@@ -15,6 +15,7 @@ const profile = {
 
 # Awards
 - 2022 부산대학교 프로그래밍대회 PNU Coderace 동상 (6위)
+- 2022 GDSC 놀러와요 해커톤 대회 4위
 
 # Skills
 ## Languages
