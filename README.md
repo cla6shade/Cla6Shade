@@ -11,7 +11,7 @@ const profile = {
 ```
 부산대학교 자연과학대학에 재학 중인 학생입니다. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cla6shadea&count_private=true&theme=monokai)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cla6shade&count_private=true&theme=monokai)
 
 # Awards
 - 2022 부산대학교 프로그래밍대회 PNU Coderace 동상 (6위)
