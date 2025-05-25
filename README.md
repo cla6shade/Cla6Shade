@@ -17,6 +17,7 @@ const profile = {
 - 2022 부산대학교 프로그래밍대회 PNU Coderace 동상 (6위)
 - 2022 GDSC 놀러와요 해커톤 대회 4위
 - 2024 DIVE 해커톤 서비스 개발부문 발제사 2위
+- 2025 부산대학교 창의융합해커톤 예선 우수상
 
 # Activities
 - 2023.03~ 피아노투게더 학원 관리 서비스 운영중(3개 지점, 회원수 2,000명)
@@ -34,7 +35,6 @@ const profile = {
 
 ## Frameworks & Libraries
 ![express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
