@@ -14,15 +14,16 @@ const profile = {
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cla6shade&count_private=true&theme=monokai)
 
 # Awards
-- 2022 부산대학교 프로그래밍대회 PNU Coderace 동상 (6위)
+- 2022 부산대학교 프로그래밍대회 PNU Coderace 동상 (약 150명 중 6위)
 - 2022 GDSC 놀러와요 해커톤 대회 4위
-- 2024 DIVE 해커톤 서비스 개발부문 발제사 2위
 - 2025 부산대학교 창의융합해커톤 예선 우수상
+- 2025 부산광역시 공공빅데이터 활용 창업경진대회 부산광역시장상 (71팀 중 3위)
 
 # Activities
-- 2023.03~ 피아노투게더 학원 관리 서비스 운영중(3개 지점, 회원수 2,000명)
-- 2024.03~ 부산대학교 개발 동아리 APPTIVE FE 멘토
-- 2024.03~2024.11 카카오 테크 캠퍼스 FE 2기 수료
+- 2023.03 ~ 피아노투게더 학원 관리 서비스 운영중(3개 지점, 회원수 2,000명)
+- 2024.03 ~ 2025.06 부산대학교 개발 동아리 APPTIVE FE 멘토
+- 2024.03 ~ 2024.11 카카오 테크 캠퍼스 FE 2기 수료
+- 2025.01 ~ 2025.02, 2025.07 ~ 2025.08 한국해양과학기술원(KIOST) 근무 - 정부과제(자료처리시스템 개발) 수행
 
 
 # Skills
@@ -36,7 +37,7 @@ const profile = {
 ## Frameworks & Libraries
 ![express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
+![next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ## ETC.
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
